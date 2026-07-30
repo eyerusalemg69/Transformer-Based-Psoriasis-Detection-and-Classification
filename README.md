@@ -9,16 +9,17 @@ The pipeline includes data augmentation, training with early stopping, and evalu
 The original psoriasis dataset is private and not shared due to ethical restrictions.  
 This repository contains only the code.  
 To run the project, place your own dataset in the following structure:
+
 data/
-train/
-class1/
-class2/
-val/
-class1/
-class2/
-test/
-class1/
-class2/
+  train/
+    class1/
+    class2/
+  val/
+    class1/
+    class2/
+  test/
+    class1/
+    class2/
 
 ## Results
 - Confusion matrix
