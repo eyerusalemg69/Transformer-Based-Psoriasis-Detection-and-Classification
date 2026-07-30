@@ -32,5 +32,4 @@ data/
 pip install -r requirements.txt
 python src/train.py
 
-## Author
-Developed by Eyerusalem Gebremeskel
+
